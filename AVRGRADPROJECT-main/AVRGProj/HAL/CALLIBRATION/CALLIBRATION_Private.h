@@ -1,0 +1,13 @@
+/*
+ * CALLIBRATION_Private.h
+ *
+ *  Created on: Aug 28, 2026
+ *      Author: DELL
+ */
+
+#ifndef HAL_CALLIBRATION_CALLIBRATION_PRIVATE_H_
+#define HAL_CALLIBRATION_CALLIBRATION_PRIVATE_H_
+
+
+
+#endif /* HAL_CALLIBRATION_CALLIBRATION_PRIVATE_H_ */
